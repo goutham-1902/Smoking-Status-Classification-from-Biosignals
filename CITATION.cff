@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this methodological case study, please cite the repository and the exact commit."
+title: "Smoking Status Classification from Bio-signals: A Methodological Comparison"
+type: software
+authors:
+  - family-names: Kodali
+    given-names: Goutham SDS
+repository-code: "https://github.com/goutham-1902/Methodological-Comparison-on-Binary-Classification-for-Smoking-Cessation-Detection-"
+license: MIT
+keywords:
+  - smoking status
+  - bio-signals
+  - binary classification
+  - principal component analysis
+  - clustering
+  - ensemble learning
