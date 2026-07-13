@@ -7,7 +7,6 @@
 
 A methodological case study of binary **smoker-status classification** from tabular demographic, physical-examination, and biochemical measurements. One executed notebook compares preprocessing, PCA, K-means feature augmentation, three base classifiers, and voting ensembles.
 
-> **Scope correction:** despite the repository's legacy name, the target is current smoking status (`smoking = 1`) rather than cessation, quit success, relapse, or treatment response. The study therefore does **not** evaluate smoking-cessation detection.
 
 ## Technical summary
 
